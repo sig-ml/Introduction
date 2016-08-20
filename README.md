@@ -19,6 +19,8 @@ There are two general teams. **Born early** and **Born late**. This is essential
 
 - Tools
   - git (github)
+    - [Getting started with Github](https://github.com/octocat/Spoon-Knife)
+    - [Github recommended tutorials](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   - python
     - pandas
     - sklearn
