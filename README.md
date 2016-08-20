@@ -39,5 +39,10 @@ There are two general teams. **Born early** and **Born late**. This is essential
 ## IRC - Internet Relay Chat
 Most of us usually hang out in `#python` and `##machinelearning`
 
+## Other resources
+
+- [Python beginners](https://docs.python.org/3/tutorial/index.html)
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Advanced resources](https://www.quora.com/What-are-good-books-on-advanced-topics-in-Python)
 
 [1]: http://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html
