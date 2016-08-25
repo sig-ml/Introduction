@@ -41,6 +41,20 @@ There are two general teams. **Born early** and **Born late**. This is essential
 ## IRC - Internet Relay Chat
 Most of us usually hang out in `#python` and `##machinelearning`
 
+## Software resources
+
+- <https://github.com/scikit-learn/scikit-learn>
+- <https://github.com/pydata/pandas>
+- <https://github.com/numpy/numpy>
+- <https://github.com/matplotlib/matplotlib>
+- <https://github.com/mwaskom/seaborn>
+- <https://github.com/theSage21/reimagined-chainsaw/blob/master/scripts/mlpr>
+- <https://github.com/dask/dask>
+- <https://github.com/ipython/ipython>
+- <http://jupyter.readthedocs.io/en/latest/>
+- <https://github.com/vlfeat/vlfeat>
+- <https://github.com/dmlc/mxnet/>
+
 ## Other resources
 
 - [Python beginners](https://docs.python.org/3/tutorial/index.html)
